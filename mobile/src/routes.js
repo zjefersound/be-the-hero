@@ -1,5 +1,5 @@
 import React from 'react';
-import { NaigationContainer, NavigationContainer } from '@react-navigation/native';
+import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
 import Detail from './pages/Detail';
